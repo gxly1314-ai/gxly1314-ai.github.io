@@ -97,9 +97,9 @@ a:hover {
 }
 
 .home-copy h1 {
-  margin: 0 0 8px;
+  margin: 0 0 26px;
   color: #000000;
-  font-size: clamp(46px, 6.2vw, 72px);
+  font-size: clamp(42px, 5.2vw, 60px);
   font-weight: 300;
   line-height: 1.05;
   letter-spacing: 0;
@@ -109,19 +109,12 @@ a:hover {
   font-weight: 850;
 }
 
-.home-role {
-  margin: 0 0 26px;
-  color: var(--accent);
-  font-size: 21px;
-  line-height: 1.4;
-}
-
 .home-copy p {
   max-width: 760px;
   margin: 0 0 26px;
   color: #282b30;
-  font-size: 20px;
-  line-height: 1.48;
+  font-size: 17px;
+  line-height: 1.58;
 }
 
 .home-copy strong {
@@ -160,7 +153,7 @@ a:hover {
 
 .home-links a {
   color: var(--accent);
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.4;
 }
 
@@ -563,17 +556,16 @@ a:hover {
   }
 
   .home-copy h1 {
-    font-size: 46px;
+    font-size: 40px;
   }
 
-  .home-role,
   .home-links a {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .home-copy p {
-    font-size: 17px;
-    line-height: 1.55;
+    font-size: 16px;
+    line-height: 1.6;
   }
 
   .home-updates h2 {
